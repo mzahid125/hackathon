@@ -1,0 +1,45 @@
+.container .nav ul {
+    list-style: none;
+  
+  
+  }
+  .container .hight1{
+      display: flex;
+      height: 700px;
+     align-items: center;
+  }
+  .container .hight button{
+  background-color: black;
+  color: white;
+  }
+  
+  .container .width{
+      background-color: #fbf8f6;
+  }
+  
+  .container button:hover {
+  
+  border: none;
+      color: orangered;
+  }
+  .container button{
+      border: none;
+  }
+  .container .width{
+      width: 300px;
+  }
+  
+  .main-2{
+      /* width: 500%; */
+      background-color: black;
+  }
+  
+  .container .main{
+      
+      background-color:#fbf8f6 ;
+  }
+  
+   .container.color:hover{
+      color: #fff;
+      background-color: black;
+  }
